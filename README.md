@@ -1,4 +1,4 @@
-# Otavio-Gandhi
+# OtavioGandh
 
 ### Olá, eu sou o Otavio Gandhi 👋
 
