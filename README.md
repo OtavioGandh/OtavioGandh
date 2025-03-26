@@ -6,7 +6,7 @@
 
 
 - 📌 Graduando em Analise e Desenvolvimento de Sistema -  Senac
-- 🔭 Cursando desenvolvimento FULLSTACK - Senac
+- 📱 Estudante de desenvolvimento Mobile
 
 
 
